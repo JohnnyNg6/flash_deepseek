@@ -1,5 +1,5 @@
-LLM Model: deepseek-r1-q4km/DeepSeek-R1-Q4_K_M
-Hardware: Apple M2Ultra 192GB 4TB
+LLM Model: deepseek-r1-q4km/DeepSeek-R1-Q4_K_M.
+Hardware: Apple M2Ultra 192GB 4TB.
 
 This project is 1.5 - 2 tok/sec.
 
